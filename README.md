@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/soroushbolbolabadi](https://github.com/soroushbolbolabadi)
+- 👨‍💻 All of my projects are available at [https://github.com/soroushbolbolabady](https://github.com/soroushbolbolabady)
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **soroushbolbolabady@gmail.me**
+- 📫 How to reach me **soroushbolbolabady@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
