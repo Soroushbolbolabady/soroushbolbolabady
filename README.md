@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm soroush bolbolabadi</h1>
+<h1 align="center">Hi 👋, I'm soroush bolbolabady</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
 
 - 🌱 I’m currently learning **Django**
