@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm soroush bolbolabady</h1>
 <h3 align="center">A passionate developer </h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/soroushbolbolabady](https://github.com/soroushbolbolabady)
 
